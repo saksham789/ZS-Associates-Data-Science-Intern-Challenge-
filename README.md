@@ -6,4 +6,8 @@ The evaluation metric was f1-score.
 
 A screenshot of the final leaderboard:
 
+![alt text](https://user-images.githubusercontent.com/26468713/50105396-96145700-0252-11e9-92ae-8647828ba1f3.png)
+
+Link https://www.interviewbit.com/contest/zs-ds-intern-dec-2018/scoreboard
+
 
